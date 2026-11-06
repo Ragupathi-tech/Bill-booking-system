@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍣 SUSHI HOTEL – Smart POS & Digital Bill Book
 > **Location:** Padalur – Oottathur Road  
 > **Production-grade Restaurant POS System** for Laptop, Tablet, Mobile Phone, and Android APK.
@@ -99,3 +100,7 @@ In Android Studio:
 - **Username / Email:** `admin@sushihotel.com` (or `counter`)
 - **Password:** `sushihotel2026` (or `1234`)
 - Or switch to **Initial Setup** tab to create your custom admin credentials.
+=======
+# bill-booking-system
+>>>>>>> f2a5343824f49d08188b1c412142162abffd3983
+# Bill-booking-system
